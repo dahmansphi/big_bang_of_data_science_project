@@ -1,6 +1,9 @@
 > [!IMPORTANT] 
 > make sure to check the book [competitive advantages](#what-is-the-competitive-advantage) below. 
 
+> [!NOTE]
+> to visit the musical introduction for the first edition check [Musical Introduction](https://youtu.be/px5kgI4Nrxc).
+
 ![the big bang of data science banner.](/assets/cover_page.jpg)
 # About the Project
 ## Author's Words
@@ -27,7 +30,7 @@ If you prefer any other way of contribution, please feel free to contact me dire
 ## the four elements
 
 > [!NOTE]
-> To have video presentaion on this section please visit [The Big Bang of Data Science Project](https://www.youtube.com/channel/UCTy7s6Bvt3OQbHXKBmGi4Hg).
+> To have a video presentaion on this section please visit [Main Introduction to The Big Bang of Data Science- First Edition](https://youtu.be/0weCBnNO7tk).
 
 
 A **product**, as a simple definition, is _the outcome of some kind of input that has been processed and as a result 
@@ -92,7 +95,7 @@ To this end, **the big bang of data science** is _very carefully crafted materia
 # The Big Bang of Data Science- SECOND EDITION
 
 > [!NOTE]
-> To have video presentaion on this section please visit [The Big Bang of Data Science Project](https://www.youtube.com/channel/UCTy7s6Bvt3OQbHXKBmGi4Hg).
+> To have a video presentaion on this section please visit [Main Introduction to The Big Bang of Data Science- Second Edition](https://youtu.be/_DZpqfy0I34).
 
 If you have made the decision to complete the first edition of **the Big Bang of Data Science**, then you may want to learn about its vision in the second Edition. _The second edition of the Big Bang of Data Science_ is going to cover **two** important areas of disciplines as follows:  
 ## Embedding Systems- Software Engineering 
