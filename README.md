@@ -1,5 +1,5 @@
 > [!IMPORTANT] 
-> make sure to check the book [competitive advantages](#book-competitive-advantage) below. 
+> make sure to check the book [competitive advantages](#what-is-the-competitive-advantage) below. 
 
 ![the big bang of data science banner.](/assets/cover_page.jpg)
 # About the Project
