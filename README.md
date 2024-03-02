@@ -2,13 +2,14 @@
 > make sure to check the book [competitive advantages](#what-is-the-competitive-advantage) below. 
 
 > [!NOTE]
-> to visit the musical introduction for the first edition check [Musical Introduction](https://youtu.be/px5kgI4Nrxc).
+> 1. to visit the musical introduction for the first edition check [Musical Introduction](https://youtu.be/px5kgI4Nrxc).
+> 2. to learn about Dahman's Phi Services initiative please see [Dahman's Phi Services Initiative](https://youtu.be/LbJAsCSf6Zw)
 
 ![the big bang of data science banner.](/assets/cover_page.jpg)
 # About the Project
 ## Author's Words
 Welcome to **The Big Bang of Data Science** official documentation. I am Dr. Deniz Dahman 
-the creator of the **BireyselValue algorithm** and the author of this digital book. In the following section you  
+the creator of the [BireyselValue algorithm](https://github.com/dahmansphi/bireyselvalue_v1/tree/main) and the author of this digital book. In the following section you  
 will have a brief introduction on the principal idea of the Big Bang of Data Science.  
 In addition, a reference to available outlets where you may have access to the entire recorded lessons.  
 Before going ahead, I would like to let you know that I have done this project as an independent scientist without any fund or similar capacity.  
@@ -19,11 +20,16 @@ To this end if you wish to contribute in any way to this work, please find furth
 
 If you wish to contribute to the creator of this method and the author, you may want to check possible ways on: 
 
-[patreon](https://patreon.com/user?u=118924481) 
+> `To Contribute in any way possible, thank you, you can check` :
 
-[YouTube](https://www.youtube.com/@dahmansphi) 
+1. view options to subscribe on [Dahman's Phi Services Website](https://dahmansphi.com/subscriptions/)
+2. subscribe to this channel [Dahman's Phi Services](https://www.youtube.com/@dahmansphi)     
+3. you can support on [patreon](https://patreon.com/user?u=118924481) 
 
-If you prefer any other way of contribution, please feel free to contact me directly. Thank you
+
+If you prefer *any other way of contribution*, please feel free to contact me directly on [contact](https://dahmansphi.com/contact/). 
+
+*Thank you*
 
 # The Big Bang of Data Science -first edition- at a glance
 
