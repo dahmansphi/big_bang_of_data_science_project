@@ -93,10 +93,13 @@ Today’s online educational stores are flooded with immense number of materials
 
 To this end, **the big bang of data science** is _very carefully crafted material_ that **addresses this matter** in principle. `It takes you on a journey to build and create your final product/solution based on the right research foundation`. So, essentially, it shows you how to build scientific research framework, then how to work on the right methods of analysis, and finally, how to use that analytical model as an input for the prediction. _In addition_, in this **first addition**, it illustrates a way to turn that product into a digital one, using a GUI for the user to interact with, in the form of a desktop solution.  
 
-`What you find here is a mimic of a path` **`from Academia to Industry`**, from the start to the end. Good Luck.   
+`What you find here is a mimic of a path` **`from Academia to Industry`**, from the start to the end.    
 
 ![the research foundation framework.](/assets/researh_foundation.gif)
+
+`But more important` **`this path is constructed based on the nature number of phi proportion of measurements`**, from the start to the end. 
  
+ ![Phi is the logo of Dahman's initiative](/assets/phi_meaning.png)
 
 # The Big Bang of Data Science- SECOND EDITION
 
