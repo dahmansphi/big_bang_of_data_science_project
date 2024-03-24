@@ -84,9 +84,9 @@ Great, so now we have this solution, logically speaking, in the form of a model 
 
 
 - [x] [Rsearch From the Start to the End](https://github.com/dahmansphi/research_from_start_to_end), 
-- [x] Analysis From the Start to the End, 
-- [x] Prediction From the Start to the End,
-- [x] Code AI From the Start to the End,  
+- [x] [Analysis From the Start to the End](https://github.com/dahmansphi/analysis_from_start_to_end) 
+- [x] [Prediction From the Start to the End](https://github.com/dahmansphi/prediction_from_start_to_end),
+- [x] [Code AI From the Start to the End](https://github.com/dahmansphi/code_ai_from_start_to_end),  
 
 ## WHAT IS THE COMPETITIVE ADVANTAGE?
 Today’s online educational stores are flooded with immense number of materials covering the contents of each element as presented above. However, most of the time there is **this missing** connection between them, for instance, **on the crucial value importance of research**. See, many would suggest the **claim** that `data is the main input for a prediction model, that’s why it needs first to be cleaned and processed before shipping to the prediction block`. That’s _right in some ways_, and _wrong in other ways_. Let me explain, without data I can make no prediction, that’s right. So, the previous claim then is right. **However**, where the data comes from! The source of _the data is the process of research_. So, if you would have from the very beginning **a wrong research foundation**, then no matter what advanced, and classy tools you have used to clean the data will never make a difference. See, you may, at face value, pre-process and clean the data, and the result would look just fine, then you feed that into the prediction blook, and you do the prediction. But you will always suffer the painful fact of UNEXPECTED results, **wrong prediction**, etc. That happened actually, because of **the wrong foundation of research**.  
